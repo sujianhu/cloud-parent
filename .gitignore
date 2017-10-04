@@ -1,0 +1,6 @@
+/.metadata/
+/.recommenders/
+/spring-cloud-Consumer/
+/spring-cloud-Provider/
+/spring-cloud-eureka/
+/spring-cloud-parent/
